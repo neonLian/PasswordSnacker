@@ -1,0 +1,5 @@
+LOWERCASE_LETTERS = "abcdefghijklmnopqrstuvwxyz"
+UPPERCASE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+NUMBERS = "1234567890"
+SPECIALS1 = "!@#$%^&*()`~\'\"-=_+"
+SPECIALS2 = "[]{}|\\:;<,.>?/"
